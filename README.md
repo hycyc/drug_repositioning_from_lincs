@@ -4,7 +4,7 @@ This is the project to implement anti-HBV drug repositioning from LINCS data and
 Last page update: **14/07/2019**
 
 # Prerequiries
-1. Install R on your computer
+1. Install [R](https://www.r-project.org) on your computer
 2. Download the project
     
     git clone https://github.com/hycyc/drug_repositioning_from_lincs
